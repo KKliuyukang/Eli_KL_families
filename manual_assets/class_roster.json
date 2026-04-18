@@ -1,0 +1,29 @@
+{
+  "families": [
+    { "id": "maisie", "child_name": "Maisie", "parents": ["Kate", "Thomas"], "whatsapp_names": ["Kate Frank"] },
+    { "id": "ira", "child_name": "Ira", "parents": ["Pushkar", "Meenal"], "whatsapp_names": ["PT"] },
+    { "id": "miana", "child_name": "Miana", "parents": ["Jady", "James"], "whatsapp_names": ["Jady"] },
+    { "id": "rose", "child_name": "Rose", "parents": ["Kaz", "John"], "whatsapp_names": ["Kaz Gould"] },
+    { "id": "edie", "child_name": "Edie", "parents": ["Emma", "Charlie"], "whatsapp_names": ["Emma Freedman", "Charles Rundle"] },
+    { "id": "mila", "child_name": "Mila", "parents": ["Julianna", "Rhys"], "whatsapp_names": ["Jules"] },
+    { "id": "teo", "child_name": "Teo", "parents": ["Julia", "Martin"], "whatsapp_names": ["Julia Leung"] },
+    { "id": "thomas", "child_name": "Thomas", "parents": ["Deb", "Kev"], "whatsapp_names": ["Deb"] },
+    { "id": "iliana", "child_name": "Iliana", "parents": ["Renee", "Gray"], "whatsapp_names": ["Renee"] },
+    { "id": "asher", "child_name": "Asher", "parents": ["Lauren", "Simon"], "whatsapp_names": ["Lauren P"] },
+    { "id": "ava", "child_name": "Ava", "parents": ["Amy", "Christian"], "whatsapp_names": ["Amy"] },
+    { "id": "yiwen", "child_name": "Yiwen", "parents": ["Joy", "Kefeng"], "whatsapp_names": ["Joy", "kefeng zhang"] },
+    { "id": "jonah", "child_name": "Jonah", "parents": ["Talia", "Hilton"], "whatsapp_names": ["Talia"] },
+    { "id": "abigail", "child_name": "Abigail", "parents": ["Michelle", "Paul"], "whatsapp_names": ["Michelle"] },
+    { "id": "eli", "child_name": "Eli", "parents": ["Lily", "Kk"], "whatsapp_names": ["Li (Lily) Liu"] },
+    { "id": "harry", "child_name": "Harry", "parents": ["Clare", "Luke"], "whatsapp_names": ["Clare Peachey"] },
+    { "id": "enora", "child_name": "Enora", "parents": ["Lynn", "Clark"], "whatsapp_names": ["LynnX", "Clark Chen"] },
+    { "id": "jeremy", "child_name": "Jeremy", "parents": ["Suzy", "Zack"], "whatsapp_names": ["Suzy"] },
+    {
+      "id": "markus",
+      "child_name": "Markus",
+      "parents": ["Siret", "Donagh"],
+      "whatsapp_names": ["Siret", "Donagh"],
+      "note": "来自你确认的完整班级名单，当前还没有自动匹配到介绍照片。"
+    }
+  ]
+}

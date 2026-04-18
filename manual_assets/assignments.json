@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "family_id": "yiwen",
+      "file": "Screenshot 2026-04-18 at 1.12.31 pm.png",
+      "category": "screenshots",
+      "note": "截图里显示 ~kefeng zhang / Yiwen Dad，以及 Yiwen 的首日照片。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "abigail",
+      "file": "Screenshot 2026-04-18 at 1.12.37 pm-1.png",
+      "category": "screenshots",
+      "note": "截图里显示 Michelle / Emily’s Mum，但消息内容是 Abigail 的首日照片，需要后续再核对群昵称。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "jonah",
+      "file": "Screenshot 2026-04-18 at 1.12.40 pm-2.png",
+      "category": "screenshots",
+      "note": "截图里同时看到 Jonah 的首日照和家庭照。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "asher",
+      "file": "Screenshot 2026-04-18 at 1.12.42 pm-3.png",
+      "category": "screenshots",
+      "note": "截图里显示 Asher，家长 Lauren 和 Simon。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "yiwen",
+      "file": "Screenshot 2026-04-18 at 1.12.42 pm-3.png",
+      "category": "screenshots",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "ava",
+      "file": "Screenshot 2026-04-18 at 1.12.44 pm-4.png",
+      "category": "screenshots",
+      "note": "截图里显示 Ava，家长 Amy 和 Christian。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "teo",
+      "file": "Screenshot 2026-04-18 at 1.12.50 pm-6.png",
+      "category": "screenshots",
+      "note": "截图里显示 Teo，家长 Julia 和 Martin。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "iliana",
+      "file": "Screenshot 2026-04-18 at 1.12.50 pm-6.png",
+      "category": "screenshots",
+      "note": "截图里显示 Iliana，家长 Renee 和 Gray。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "thomas",
+      "file": "Screenshot 2026-04-18 at 1.12.52 pm-7.png",
+      "category": "screenshots",
+      "note": "截图里显示 Thomas，家长 Deb 和 Kev。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "teo",
+      "file": "Screenshot 2026-04-18 at 1.12.52 pm-7.png",
+      "category": "screenshots",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "mila",
+      "file": "Screenshot 2026-04-18 at 1.12.54 pm-8.png",
+      "category": "screenshots",
+      "note": "截图里显示 Mila，家长 Julianna 和 Rhys。",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "thomas",
+      "file": "Screenshot 2026-04-18 at 1.12.54 pm-8.png",
+      "category": "screenshots",
+      "tag": "manual-screenshot"
+    },
+    {
+      "family_id": "jonah",
+      "file": "00000057-PHOTO-2026-02-16-13-11-56.jpg",
+      "category": "father"
+    },
+    {
+      "family_id": "jonah",
+      "file": "00000057-PHOTO-2026-02-16-13-11-56.jpg",
+      "category": "mother"
+    },
+    {
+      "family_id": "jonah",
+      "file": "00000057-PHOTO-2026-02-16-13-11-56.jpg",
+      "category": "child",
+      "note": "00000057 里男的是 Jonah 的爸爸 Hilton，女的是妈妈 Talia，最小的是 Jonah。",
+      "tag": "manual-identified"
+    },
+    {
+      "family_id": "jonah",
+      "file": "00000057-PHOTO-2026-02-16-13-11-56.jpg",
+      "category": "family"
+    }
+  ]
+}
